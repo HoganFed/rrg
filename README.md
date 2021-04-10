@@ -8,9 +8,9 @@ Kentucky's Red River Gorge National Geological Area
 
 https://hoganfed.github.io/rrg/
 
-[Natural Bridge](Natural_bridge_arch.jpg)
+(Natural_bridge_arch.jpg)
 Natural Bridge, Photo from Cliffview Red River Gorge
 
 
-[Princess Arch](Princess_arch.jpg) 
+(Princess_arch.jpg) 
 Princess Arch, Photo from KentuckyHiker.com
